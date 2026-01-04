@@ -15,10 +15,15 @@ python multiplication_table_1_to_100.py
 
 ## Sample Output
 MULTIPLICATION TABLE FOR 5
+
 5 x 1 = 5
+
 5 x 2 = 10
+
 ...
+
 5 x 100 = 500
+
 
 ## Concepts Used
 - for loop
